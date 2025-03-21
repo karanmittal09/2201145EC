@@ -1,0 +1,11 @@
+.feed {
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+.post {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
