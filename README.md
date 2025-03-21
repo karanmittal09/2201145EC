@@ -90,16 +90,4 @@ git clone https://github.com/your-username/your-repo.git
 
 
 
-License
 
-This project is licensed under the MIT License.
-
----
-
-This README includes:  
-- *API details*  
-- *Endpoints* with descriptions  
-- *Embedded screenshots*  
-- *Usage instructions*  
-
-Let me know if you need any modifications or a .md file generated!
